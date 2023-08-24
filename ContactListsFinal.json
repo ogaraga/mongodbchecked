@@ -1,0 +1,55 @@
+[{
+    "_id": {
+      "$oid": "64e691646ab9ec8fcca713c1"
+    },
+    "firstName": "Fare",
+    "lastName": "Ben Lahmer",
+    "Age": 26,
+    "Email": "fares@gmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "64e691646ab9ec8fcca713c2"
+    },
+    "firstName": "Seif",
+    "lastName": "Kefi",
+    "Age": 15,
+    "Email": "kefi@gmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "64e691646ab9ec8fcca713c3"
+    },
+    "firstName": "Sarra",
+    "lastName": "Fatnassi",
+    "Age": 40,
+    "Email": "sarra.f@gmail.com"
+  },
+  
+  {
+    "_id": {
+      "$oid": "64e693b96ab9ec8fcca713c6"
+    },
+    "firstName": "Fare",
+    "lastName": "Ben Lahmer",
+    "Age": 26,
+    "Email": "fares@gmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "64e693b96ab9ec8fcca713c7"
+    },
+    "firstName": "Seif",
+    "lastName": "Kefi",
+    "Age": 15,
+    "Email": "kefi@gmail.com"
+  },
+  {
+    "_id": {
+      "$oid": "64e693b96ab9ec8fcca713c8"
+    },
+    "firstName": "Sarra",
+    "lastName": "Fatnassi",
+    "Age": 40,
+    "Email": "sarra.f@gmail.com"
+  }]

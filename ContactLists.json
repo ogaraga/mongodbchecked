@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64e691646ab9ec8fcca713c1"
+  },
+  "firstName": "Fare",
+  "lastName": "Ben Lahmer",
+  "Age": 26,
+  "Email": "fares@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64e691646ab9ec8fcca713c2"
+  },
+  "firstName": "Seif",
+  "lastName": "Kefi",
+  "Age": 15,
+  "Email": "kefi@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64e691646ab9ec8fcca713c3"
+  },
+  "firstName": "Sarra",
+  "lastName": "Fatnassi",
+  "Age": 40,
+  "Email": "sarra.f@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64e691646ab9ec8fcca713c4"
+  },
+  "firstName": "Rym",
+  "lastName": "Yahia",
+  "Age": 4,
+  "Email": null
+},
+{
+  "_id": {
+    "$oid": "64e691646ab9ec8fcca713c5"
+  },
+  "firstName": "Sami",
+  "lastName": "Cherif",
+  "Age": 3,
+  "Email": null
+},
+{
+  "_id": {
+    "$oid": "64e693b96ab9ec8fcca713c6"
+  },
+  "firstName": "Fare",
+  "lastName": "Ben Lahmer",
+  "Age": 26,
+  "Email": "fares@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64e693b96ab9ec8fcca713c7"
+  },
+  "firstName": "Seif",
+  "lastName": "Kefi",
+  "Age": 15,
+  "Email": "kefi@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64e693b96ab9ec8fcca713c8"
+  },
+  "firstName": "Sarra",
+  "lastName": "Fatnassi",
+  "Age": 40,
+  "Email": "sarra.f@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "64e693b96ab9ec8fcca713c9"
+  },
+  "firstName": "Rym",
+  "lastName": "Yahia",
+  "Age": 4,
+  "Email": null
+},
+{
+  "_id": {
+    "$oid": "64e693b96ab9ec8fcca713ca"
+  },
+  "firstName": "Sami",
+  "lastName": "Cherif",
+  "Age": 3,
+  "Email": null
+}]
